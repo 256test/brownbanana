@@ -10,7 +10,7 @@ $(document).ready(function(){
     });
 
     $("#contact-button").click(function(){
-        console.log("contact button clicked!");
+        console.log("contact button clicked");
     });
 
     $("#learn-button").click(function(){
